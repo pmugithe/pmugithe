@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **User Behavior Analytics**
 
-- 🌱 I’m currently learning **Web App Pentesting, Data Analytics**
+- 🌱 I’m currently learning **Web App Pentesting, Java Full Stack Spring**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pradeep-mugithe/)
 
