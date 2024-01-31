@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **Web App Pentesting, Java Full Stack Spring**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pradeep-mugithe/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pradeep-mugithe/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
-- 💬 Ask me about **Web App Pentesting, Java, Spring**
+- 💬 Ask me about **Web App Pentesting, Java, Spring, Oracle, RESTful web services, AWS**
 
-- 📫 How to reach me **pmugithe@iu.edu**
+- 📫 How to reach me **pmugithe@purdue.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pradeep-mugithe/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
-- ⚡ Fun fact **I think I am Super Lazy**
+- ⚡ Fun fact **I'm calm yet talkative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
