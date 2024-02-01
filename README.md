@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pradeep Mugithe</h1>
-![](https://komarev.com/ghpvc/?username=pmugithe&color=green)
+### <h1 align="center">Hi 👋, I'm Pradeep Mugithe</h1>
+![](https://komarev.com/ghpvc/?username=pmugithe&color=red)
 <h3 align="center">A passionate Web App Pentester with experience on Java, spring, and data engineering technologies</h3>
 
 - 🔭 I’m currently working on **User Behavior Analytics**
