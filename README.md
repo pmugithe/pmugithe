@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=pmugithe&color=red)
 <h3 align="center">A passionate Web App Pentester with experience on Java, spring, and data engineering technologies</h3>
 
-- 🔭 I’m currently working on **User Behavior Analytics**
+- 🔭 I’m currently working on **Predicting Air Quality with ML and AWS**
 
 - 🌱 I’m currently learning **Web App Pentesting, Java Full Stack Spring**
 
