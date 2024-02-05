@@ -1,10 +1,10 @@
 ### <h1 align="center">Hi 👋, I'm Pradeep Mugithe</h1>
 ![](https://komarev.com/ghpvc/?username=pmugithe&color=red)
-<h3 align="center">A passionate Web App Pentester with experience on Java, spring, and data engineering technologies</h3>
+<h3 align="center">A passionate Software Engineer with experiences in Java, spring, and data engineering technologies</h3>
 
 - 🔭 I’m currently working on **Predicting Air Quality with ML and AWS**
 
-- 🌱 I’m currently learning **Web App Pentesting, Java Full Stack Spring**
+- 🌱 I’m currently learning **Java Full Stack**and preparing for certification **AWS SAA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
