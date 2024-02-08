@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Predicting Air Quality with ML and AWS**
 
-- 🌱 I’m currently learning **Java Full Stack** and preparing for certification **AWS SAA**
+- 🌱 I’m currently learning **Java Full Stack**   and preparing for certification **AWS SAA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
