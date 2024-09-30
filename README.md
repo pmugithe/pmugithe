@@ -1,18 +1,18 @@
 ### <h1 align="center">Hi 👋, I'm Pradeep Mugithe</h1>
 ![](https://komarev.com/ghpvc/?username=pmugithe&color=red)
-<h3 align="center">A passionate Software Engineer with experiences in Java, spring, and data engineering technologies</h3>
+<h3 align="center">A passionate Software Engineer with experiences in C#, .NET, and Front-end technologies</h3>
 
-- 🔭 I’m currently working on **Predicting Air Quality with ML and AWS**
+- 🔭 I’m currently working on **MemoryHub -- E-Commerce Web Application**
 
-- 🌱 I’m currently learning **Java Full Stack**   and preparing for certification **AWS SAA**
+- 🌱 I’m currently learning **.NET Full Stack**   and preparing for certification **Azure Certification**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
-- 💬 Ask me about **Web App Pentesting, Java, Spring, Oracle, RESTful web services, AWS**
+- 💬 Ask me about **Web Apps, C#, .NET, Databases, Angular, RESTful web services, AWS,Azure**
 
-- 📫 How to reach me **pmugithe@purdue.edu**
+- 📫 How to reach me **kmugithe@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pradeep-mugithe/](https://www.linkedin.com/in/pmugithe/)
 
